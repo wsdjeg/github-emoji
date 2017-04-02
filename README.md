@@ -155,7 +155,6 @@ People
 :person_with_pouting_face:
 :person_frowning:
 :bow:
-:couplekiss:
 :couple_with_heart:
 :massage:
 :haircut:
