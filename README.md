@@ -13,7 +13,9 @@ It will be displayed as :blush:
 
 So you can write code to submit information submitted when:
 
+```
 git commit –m 'commit some changes :blush:'
+```
 
 也可以直接复制以下你选中的粘贴到github项目中你所需要的文本或者标题里面，希望你enjoy it! star or fork now:smile:
 
