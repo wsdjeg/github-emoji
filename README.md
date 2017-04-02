@@ -1,4 +1,53 @@
-[预览](https://wscats.github.io/github-emoji/public/index.html)
+<div align="center">
+<p><img width="150" src="https://wscats.github.io/Angular-news/news/image/windiest.png"></p>
+
+<h1>Angular News</h1>
+
+<p>
+  <strong>Use Weui and Vue prepared by github emoticon</strong>,
+  <a href="https://wscats.github.io/github-emoji/public/index.html">Live Demo</a>
+</p>
+
+<p>
+  <sub>Made with ❤︎ by
+    <a href="https://github.com/windiest">Winds</a> and
+    <a href="https://github.com/Wscats">Wscats</a>
+  </sub>
+</p>
+
+<p>
+<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/npm.svg" alt="NPM version"></a>
+<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/mit.svg" alt="MIT License"></a>
+<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/linux.svg" alt="Linux Build"></a>
+<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/windows.svg" alt="Window Build"/></a>
+</p>
+
+</div>
+
+
+## Installation(Git)
+
+克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)），[点击预览（移动端效果更佳）](https://wscats.github.io/github-emoji/public/index.html)
+```
+git clone https://github.com/Wscats/github-emoji.git
+```
+定位到public文件夹，在浏览器打开index.html
+```
+cd public
+//浏览器打开
+file:///X:/文件目录地址/public/index.html
+```
+
+## Building
+通过`npm`安装本地服务第三方依赖模块（需要已安装[Node.js](https://nodejs.org/)），建议使用`cnpm`安装依赖的模块
+```
+npm install
+```
+启动服务器（http://localhost:8080）
+```
+npm run dev
+```
+## Other
 
 使用方法为前后冒号包围表情代号的句法。
 
