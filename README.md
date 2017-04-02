@@ -1,10 +1,10 @@
 <div align="center">
 <p><img width="150" src="https://wscats.github.io/Angular-news/news/image/windiest.png"></p>
 
-<h1>Angular News</h1>
+<h1>Github Emoji</h1>
 
 <p>
-  <strong>Use Weui and Vue prepared by github emoticon</strong>,
+  <strong>Use Weui and Vue prepared by github emoji</strong>,
   <a href="https://wscats.github.io/github-emoji/public/index.html">Live Demo</a>
 </p>
 
