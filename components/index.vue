@@ -37,6 +37,7 @@
 			<div style="padding-top:15px">
 				<input v-model="height" type="range" min="20" max="34" />
 			</div>
+			<div class="weui-cells__title">Choose(鼠标选择表情然后复制代码)</div>
 			<div @click="chooseEmoji($event)">
 				<p class="page__bd page__bd_spacing_top" v-show="type==1||type==0">
 					<span alias="smile" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png" ios-version="6.0"><img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png" :height="height" :width="width"></span>
