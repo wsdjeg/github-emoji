@@ -16,10 +16,10 @@
 </p>
 
 <p>
-<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/npm.svg" alt="NPM version"></a>
-<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/mit.svg" alt="MIT License"></a>
-<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/linux.svg" alt="Linux Build"></a>
-<a href="https://github.com/Wscats/news"><img src="https://wscats.github.io/Angular-news/news/image/windows.svg" alt="Window Build"/></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/npm.svg" alt="NPM version"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/mit.svg" alt="MIT License"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/linux.svg" alt="Linux Build"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/windows.svg" alt="Window Build"/></a>
 </p>
 
 </div>
